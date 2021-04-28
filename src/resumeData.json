@@ -2,7 +2,7 @@
   "main": {
     "name":"Audrey Gilliam",
     "description":"Sophomore at University of Virginia's College at Wise",
-    "image":"profilepic.jpg",
+    "image":"ProfilePic.jpg",
     "bio":"Hello! I am 20 years old, I graduated from Union High School in 2019 and am currently a Computer Science Major at UVA-Wise. The programming language I prefer is C++, but I am willing to be outside of my comfort zone.",
     "contactmessage":"The best way to get in contact of me is by the email provided!",
     "email": "alg4g@uvawise.edu",
@@ -30,7 +30,8 @@
     "projects": [
       {
         "title":"Linked Lists",
-        "category":"Creating My Own Classes in C++",
+        "category":"Creating My Own Classes in C++ to Better Understand Them",
+        "image": "profilepic.jpg",
         "url":"https://drive.google.com/file/d/1KVED4JIehFYdx7SoDVJ3GXrC4_hK1t8H/view?usp=sharing"
       }
     ]
